@@ -1,8 +1,8 @@
 # Vyond Legacy Remastered
 Vyond Legacy is Retired on called Vyond Legacy Remastered is Not Reborn 1.2.1
 
-# Server
-If you want too edit the Asset Server, then click [here](https://github.com/2Epik4u/Wrapper-Online-Assets).
+# Vyond Legacy Remastered Assets Server
+If you want too edit the Asset Server, then click [here](https://github.com/Vyond-Legacy/Vyond-Legacy-Remastered-Assets).
 
 # Start
 Run the [start.bat](https://github.com/2Epik4u/Wrapper-Online/blob/master/start.bat) to start.
