@@ -1,5 +1,5 @@
-# Wrapper
-This is a Goanimate Legacy Video Maker Remake built in [Node.js](https://nodejs.org/)
+# Vyond Legacy Remastered
+Vyond Legacy is Retired on called Vyond Legacy Remastered is Not Reborn 1.2.1
 
 # Server
 If you want too edit the Asset Server, then click [here](https://github.com/2Epik4u/Wrapper-Online-Assets).
